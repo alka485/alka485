@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=alka485&style=flat-square&color=blue" alt=""/>
+
+
+
 <!--
 **alka485/alka485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
