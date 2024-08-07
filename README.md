@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd2YzRneGNvazhwbTBhNHk2ZzljZTlhZ29vdG4zcmJydjN2YWJmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+</div>
 
 <!--
 **alka485/alka485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
